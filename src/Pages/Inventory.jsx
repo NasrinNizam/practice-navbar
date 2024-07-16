@@ -2,6 +2,6 @@ import React from 'react'
 
 export const Inventory = () => {
   return (
-    <div>Inventory</div>
+    <div className="text-43px">Inventory</div>
   )
 }
